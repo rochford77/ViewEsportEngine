@@ -131,3 +131,6 @@ dmypy.json
 
 # Docker
 docker-compose.yml
+
+# Tutorial
+app/polls/*
